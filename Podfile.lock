@@ -1,0 +1,30 @@
+PODS:
+  - Arcane (1.2.1)
+  - JustRequest (0.4.1)
+  - Prelude (3.0.0)
+  - SwiftKeychainWrapper (3.0.1)
+  - TinyConstraints (3.1.0)
+  - Unbox (2.5.0)
+  - ViewElements (0.1.0)
+
+DEPENDENCIES:
+  - Arcane
+  - JustRequest
+  - Prelude
+  - SwiftKeychainWrapper
+  - TinyConstraints
+  - Unbox
+  - ViewElements
+
+SPEC CHECKSUMS:
+  Arcane: 870689a8ba7145a7dec0c2d7d7836b50c9f12636
+  JustRequest: c24ba8b0435c24d8632c0a4c6e796134d57c9792
+  Prelude: fe4cc0fd961d34edf48fe6b04d05c863449efb0a
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  TinyConstraints: 4721a4b303c799328867078ade6560e152df54d1
+  Unbox: 30e437e6151a6de16139375fd4e8dd9a664cfbf7
+  ViewElements: 21622b56d4b8fb1644e331ac3158ebd3341733d4
+
+PODFILE CHECKSUM: fd5e7d6e5f1ec8d37775d1b6a5d7c5f576075661
+
+COCOAPODS: 1.4.0
